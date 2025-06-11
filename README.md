@@ -99,7 +99,7 @@ python train_test_thoughts.py
 ~~~
 
 ### Evaluate the results and visualize the reconstructed infographic. 
-The reconstructed design is saved at `./thoughts_reconstruction.png'
+The reconstructed design is saved at `./thoughts_reconstruction.png`
 ~~~bash
 python evaluate.py
 ~~~
