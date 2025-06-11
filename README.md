@@ -1,4 +1,4 @@
-# Sketch2Data: Recovering Data from Hand-Drawn Infographics (Project page)
+# Sketch2Data: Recovering Data from Hand-Drawn Infographics (Project page [here](https://anranqi.github.io/Sketch2Data.github.io/))
 
 
 
